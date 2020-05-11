@@ -14,10 +14,5 @@ See demos directory for more.
 ### 1. Red kneecap
 
 red_kneecap.input.jpg:  
-<img src="https://johntigue.github.io/whiteboarder/demo/red_kneecap.input.jpg" width="100%"/>
-
-
-red_kneecap.output_1.jpg:  
-<img src="https://johntigue.github.io/whiteboarder/images/red_kneecap.output_1.jpg" width="100%"/>
-
-
+<img src="https://johntigue.github.io/whiteboarder/demo/red_kneecap.input.jpg" width="45%"/><img src="https://johntigue.github.io/whiteboarder/demo/red_kneecap.output_1.jpg" width="45%"/>
+ 
