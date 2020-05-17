@@ -1,6 +1,6 @@
 # Whiteboarder
 
-<img src="https://johntigue.github.io/whiteboarder/images/four_pens_quartet.png" width="100%"/>
+<img src="https://johntigue.github.io/whiteboarder/images/headers/our_very_white_colored_caps.jpg" width="100%"/>
 
 MIT licensed code for processing whiteboard images.
 
