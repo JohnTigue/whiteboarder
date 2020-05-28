@@ -1,3 +1,5 @@
+import bokeh
+import bokeh.plotting
 from bokeh.events import DoubleTap
 from bokeh.models.callbacks import CustomJS
 import plotly.graph_objects as go
