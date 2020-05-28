@@ -5,6 +5,8 @@ from bokeh.models.callbacks import CustomJS
 import cv2
 import numpy as np
 import plotly.graph_objects as go
+from skimage.util import img_as_ubyte, img_as_float
+
 
 eight_bit_range = np.arange(0, 256, 1)
 
