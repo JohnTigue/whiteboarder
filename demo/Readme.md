@@ -8,7 +8,7 @@ Click on the following button to run Whiteboarder on Colab:
 <a href="https://colab.research.google.com/github/JohnTigue/whiteboarder/blob/master/whiteboarder.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="20%" /></a>
 
 
-### 1. Rolling ball background removal, followed by CLAHE
+### Pipeline #1: rolling ball background removal, CLAHE, then manually thresholded
 
 ```python
 backgroundless_img, background = subtract_background_rolling_ball(grayed_input_image, 
@@ -24,14 +24,12 @@ masked_image = np.copy(input_color_image)
 masked_image[~foreground_mask] = [255, 255, 255]
 ```
 
-
 touch_of_orange.jpg:  
 <img src="https://johntigue.github.io/whiteboarder/demo/touch_of_orange.jpg" width="90%"/>
 
-
-
 red_kneecap.jpg:  
-<img src="https://johntigue.github.io/whiteboarder/demo/red_kneecap.input.jpg" width="45%"/><img src="https://johntigue.github.io/whiteboarder/demo/red_kneecap.output_1.jpg" width="45%"/>
+<img src="https://johntigue.github.io/whiteboarder/demo/red_kneecap.jpg" width="90%"/>
+
 
 
 

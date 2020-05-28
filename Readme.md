@@ -2,9 +2,9 @@
 
 <img src="https://johntigue.github.io/whiteboarder/images/headers/four_pale_markers.png" width="100%"/>
 
-Whiteboarder is a two-bit image processor for whiteboard capture images. It is Python code with an MIT. 
+Whiteboarder is a two-bit image processor for whiteboard capture images. It is Python code released under an MIT license. 
 
-Although the core is just Jupyter notebooks, the code has been optimized to run on Colab:
+Although the core is just Jupyter notebooks, the code has been optimized to run on Colab. Click the following button to try it out:
 
 <a href="https://colab.research.google.com/github/JohnTigue/whiteboarder/blob/master/whiteboarder.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="20%" /></a>
 
@@ -12,10 +12,13 @@ Although the core is just Jupyter notebooks, the code has been optimized to run 
 
 See [the `demo` directory](https://github.com/JohnTigue/whiteboarder/tree/master/demo) for more demonstrations.
 
-<img src="https://johntigue.github.io/whiteboarder/demo/red_kneecap.input.jpg" width="45%"/><img src="https://johntigue.github.io/whiteboarder/demo/red_kneecap.output_1.jpg" width="45%"/>
 
-<img src="https://johntigue.github.io/whiteboarder/demo/carrot_top.input.jpg" width="45%"/><img src="https://johntigue.github.io/whiteboarder/demo/carrot_top.output_1.jpg" width="45%"/>
 
+touch_of_orange.jpg:  
+<img src="https://johntigue.github.io/whiteboarder/demo/touch_of_orange.jpg" width="90%"/>
+
+red_kneecap.jpg:  
+<img src="https://johntigue.github.io/whiteboarder/demo/red_kneecap.jpg" width="90%"/>
 
 
 
