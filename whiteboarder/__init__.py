@@ -3,7 +3,10 @@ import bokeh.plotting
 from bokeh.events import DoubleTap
 from bokeh.models.callbacks import CustomJS
 import cv2
+import numpy as np
 import plotly.graph_objects as go
+
+eight_bit_range = np.arange(0, 256, 1)
 
 def get_favorite_color():
   return 'yellow'
