@@ -30,8 +30,17 @@ touch_of_orange.jpg:
 red_kneecap.jpg:  
 <img src="https://johntigue.github.io/whiteboarder/demo/red_kneecap.jpg" width="90%"/>
 
+swc_in_2d.jpg:  
+<img src="https://johntigue.github.io/whiteboarder/demo/swc_in_2d.jpg" width="90%"/>
 
+hatching_fill.jpg:  
+<img src="https://johntigue.github.io/whiteboarder/demo/hatching_fill.jpg" width="90%"/>
 
+git_and_jupyter_book.jpg:  
+<img src="https://johntigue.github.io/whiteboarder/demo/git_and_jupyter_book.jpg" width="90%"/>
+
+brightfield_cuboid_packager.jpg:  
+<img src="https://johntigue.github.io/whiteboarder/demo/brightfield_cuboid_packager.jpg" width="90%"/>
 
 
 
