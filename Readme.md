@@ -6,14 +6,13 @@ Whiteboarder is a two-bit image processor for whiteboard capture images. It is P
 
 Although the core is just Jupyter notebooks, the code has been optimized to run on Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JohnTigue/whiteboarder/blob/master/whiteboarder.ipynb)
+<a href="https://colab.research.google.com/github/JohnTigue/whiteboarder/blob/master/whiteboarder.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" width="20%" /></a>
 
 ## Demonstrations
 
-See demos directory for more.
+See [the `demo` directory](https://github.com/JohnTigue/whiteboarder/tree/master/demo) for more demonstrations.
 
 <img src="https://johntigue.github.io/whiteboarder/demo/red_kneecap.input.jpg" width="45%"/><img src="https://johntigue.github.io/whiteboarder/demo/red_kneecap.output_1.jpg" width="45%"/>
-
 
 <img src="https://johntigue.github.io/whiteboarder/demo/carrot_top.input.jpg" width="45%"/><img src="https://johntigue.github.io/whiteboarder/demo/carrot_top.output_1.jpg" width="45%"/>
 
