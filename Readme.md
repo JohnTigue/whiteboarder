@@ -1,6 +1,6 @@
 # Whiteboarder
 
-<img src="https://johntigue.github.io/whiteboarder/images/headers/four_pale_markers.png" width="100%"/>
+<img src="https://johntigue.github.io/whiteboarder/images/header.png" width="100%"/>
 
 Whiteboarder is a two-bit image processor for whiteboard capture photos. It is Python code released under an MIT license. 
 
